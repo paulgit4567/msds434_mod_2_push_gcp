@@ -2,4 +2,4 @@
 
 ### print.py
 
-print('hello world')
+print('add commit push')
